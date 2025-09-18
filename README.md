@@ -137,4 +137,6 @@ Welcome to AlexOS v4.0 (Procedural Kernel)
 
 Login as [USER: default]
 
+If the user types "admin, 1234", change the user role from "default" to "admin" and grant administrative privileges.
+
 AlexOS:/$
